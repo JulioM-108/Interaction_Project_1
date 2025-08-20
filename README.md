@@ -9,6 +9,13 @@ Repository of the first project for the course **Interaction Systems** at **Pont
 ## Trailer Link
 https://youtu.be/QQ7CdS-mQME?si=KBfWuKr0eKEox3y6
 
+## Project Files
+Due to GitHub's file size limitations, the `.aup` and `.mp4` files could not be uploaded directly to this repository.  
+Instead, they have been uploaded to OneDrive and can be accessed through the following link:  
+
+[OneDrive Link – Project Files](https://javerianacaliedu-my.sharepoint.com/:f:/g/personal/misancio_javerianacali_edu_co/Er5yuGNSFWZFg2K23BjbdZEBvgqov5RYk-bmXsVXEzWTaA?e=yfDvSY)
+
+
 ## Project Description
 This project is a creative intervention of the **Mortal Kombat** movie trailer, a film based on the 1 vs 1 fighting video game, known for its violent and bloody tone.  
 
@@ -36,16 +43,10 @@ In addition, **sound effects were cut and inserted with humorous intent**, reinf
 
 - We did this with the purpose of analyzing **how audio can completely transform the viewer’s experience** through editing, mixing techniques, and creative resources such as artificial intelligence and sound effects.
 
-## Project Files
-Due to GitHub's file size limitations, the `.aup` and `.mp4` files could not be uploaded directly to this repository.  
-Instead, they have been uploaded to OneDrive and can be accessed through the following link:  
-
-[OneDrive Link – Project Files](https://javerianacaliedu-my.sharepoint.com/:f:/g/personal/misancio_javerianacali_edu_co/Er5yuGNSFWZFg2K23BjbdZEBvgqov5RYk-bmXsVXEzWTaA?e=S0HKgu)
-
 
 ## References
-- **Smash Bros**: https://youtu.be/X-FJ2AN8UP0?si=_Osj5R8gIF93x1ME  
-- **Some Sounds Used**: https://youtu.be/BokT_enrUn0?si=Og6wsAHPlbNC6Oh4  
+- **Smash Bros**: https://youtu.be/X-FJ2AN8UP0  
+- **Some Sounds Used**: https://youtu.be/BokT_enrUn0 
 
 
 
