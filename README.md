@@ -46,7 +46,7 @@ In addition, **sound effects were cut and inserted with humorous intent**, reinf
 
 ## References
 - **Smash Bros**: https://youtu.be/X-FJ2AN8UP0  
-- **Some Sounds Used**: https://youtu.be/BokT_enrUn0 
+- **Some Sounds Used**: https://youtu.be/BokT_enrUn0   
 
 
 
